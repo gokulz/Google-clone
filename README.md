@@ -1,2 +1,2 @@
 # Google.com-clone
-google.com clone using html and css
+google.com clone practice and build only using html and css 
